@@ -1,6 +1,8 @@
 /********** Base styles **********/
 body{
-  background-image: url("restaurant.jpg");
+  background-image: url("restaurant.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 * {
   box-sizing: border-box;
